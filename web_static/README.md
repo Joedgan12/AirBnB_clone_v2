@@ -1,0 +1,1 @@
+Implements web design pages
